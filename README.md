@@ -25,3 +25,5 @@ Recommendation:
 For further improvements, we recommend experimenting with different model architectures, such as using a more complex neural network like a Convolutional Neural Network (CNN) for image data or a Recurrent Neural Network (RNN) for sequential data. Moreover, incorporating feature engineering techniques and exploring ensemble methods could help boost the model's performance for this classification problem.
 
 Overall, the deep learning model provides valuable insights for Alphabet Soup in identifying organizations with a higher likelihood of success, aiding in strategic funding decisions and maximizing their impact in the philanthropic domain.
+
+*** CHATGPT supported me writing the code and ReadME. Thank you
